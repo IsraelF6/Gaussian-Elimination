@@ -12,7 +12,7 @@ b[i] =  { 1 if i is odd,  0 otherwise }
 
 ----------------------------------------------------------------------------------
 
-Also write a subroutine that takes as inputs n,A, x, and b, and then outputs r where r is the 
+There is also a subroutine that takes as inputs n,A, x, and b, and then outputs r where r is the 
 residual r = b − Ax. n is an integer. A is a n × n two dimensional array of type double, b is a 
 n × 1 one dimensional array of type double, x is a n × 1 one dimensional array of type double, and 
 r is a n × 1 one dimensional array of type double.
