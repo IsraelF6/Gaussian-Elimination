@@ -6,9 +6,9 @@ n is an integer. A is a n × n two dimensional array of type double, b is a n ×
 array of type double, and x is a n × 1 one dimensional array of type double. Test your subroutine on 
 the systems from problem 1. Also test your subroutine on the n × n matrix system defined as follows:
 
-A[i,j] =  {4 if i = j | −1 if j = i + 1 | −1 if j = i − 1 | 0 otherwise }
+A[i,j] =  { 4 if i = j,  −1 if j = i + 1,  −1 if j = i − 1,  0 otherwise }
 
-b[i] =  1 if i is odd | 0 otherwise
+b[i] =  { 1 if i is odd,  0 otherwise }
 
 ----------------------------------------------------------------------------------
 
