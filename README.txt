@@ -1,4 +1,10 @@
-# Gaussian-Elimination
+
+======================
+ Gaussian elimination
+======================
+
+Made By: Israel Felhandler
+
 
 
 A subroutine that takes as input n, A, and b, and then outputs x where x solves Ax = b. n is an 
